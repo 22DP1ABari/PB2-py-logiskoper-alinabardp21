@@ -1,4 +1,5 @@
 from doctest import testmod
+koord_x = float(input()) 
 def parbaudit_diapazonu(koord_x:float):
     '''Uzdevums pārbauda x koordināti
     
@@ -13,5 +14,6 @@ def parbaudit_diapazonu(koord_x:float):
         return True
     else:
         return False
-    
-    testmode(verbose = True)
+
+   
+parbaudit_diapazonu(koord_x)

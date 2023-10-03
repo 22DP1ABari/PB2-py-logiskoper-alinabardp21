@@ -17,3 +17,4 @@ def parbaudit_diapazonu(koord_x:float):
 
    
 parbaudit_diapazonu(koord_x)
+testmod()

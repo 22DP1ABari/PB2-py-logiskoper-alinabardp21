@@ -29,7 +29,9 @@ Ja virziena koeficients ir k = 0, tad funkcija ne aug, ne dilst, tā ir nemainī
 *Piemērs:*
 
 > Funkcija y = 2x + 3 ir augoša.
+
 > Funkcija y = -5x + 2 ir dilstoša.
+
 > Funkcija y = 6 ir konstanta.
 
 Divi lineāru funkciju grafiki ir **krustiski**, vai arī ir **paralēli** (nekad nekrustojas).
@@ -38,4 +40,5 @@ Ja taisnes virziena koeficients ir vienāds, tad grafiki nekrustojas.
 *Piemērs:*
 
 >Taisnes y = 2x + 6 un y = 2x − 5 nekrustojas, jo virziena koeficients abām ir vienāds: k = 2.
+
 >Taisnes y = 6x + 4 un y = 5x + 4 krustojas, jo virziena koeficienti ir dažādi.
